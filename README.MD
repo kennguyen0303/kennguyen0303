@@ -4,7 +4,7 @@
 [![GitHub KenNguyen](https://img.shields.io/github/followers/kennguyen0303?label=follow&style=social)](https://github.com/kennguyen0303)
 
 ```javascript
-const ken = {
+const KEN = {
   pronouns: "he" | "him",
   code: [Javascript, Typescript, HTML, CSS, PHP, Python, Java],
   tools: [React, Redux, Node, Jupyter Notebook, Styled-Components, Jest, Docker, GraphQL],
