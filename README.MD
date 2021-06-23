@@ -2,7 +2,7 @@
 
 [![Linkedin: KenNguyen](https://img.shields.io/badge/-KenNguyen-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ken-nguyen-0303/)](https://www.linkedin.com/in/ken-nguyen-0303/)
 [![GitHub KenNguyen](https://img.shields.io/github/followers/kennguyen0303?label=follow&style=social)](https://github.com/kennguyen0303)
-
+<a href="https://wakatime.com/@kennguyen0303"><img src="https://img.shields.io/badge/Wakatime-kennguyen0303-success?&logo=wakatime&style=flat" alt="Wakatime"></a>
 ```javascript
 const KEN = {
   pronouns: "he" | "him",
@@ -16,6 +16,7 @@ const KEN = {
 ```
 
 ![Ken's GitHub stats](https://github-readme-stats.vercel.app/api?username=kennguyen0303&show_icons=true&theme=calm)
+[![Ken's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kennguyen0303&v=2)](https://github.com/anuraghazra/github-readme-stats)
 <!-- [![Ken's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kennguyen0303&v=2)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kennguyen0303)](https://github.com/anuraghazra/github-readme-stats)
